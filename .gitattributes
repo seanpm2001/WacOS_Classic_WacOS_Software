@@ -21,53 +21,9 @@
 # HTA (HTML Application) file
 *.hta linguist-detectable=true
 *.hta linguist-documentation=false
-# CSS (Cascade Styling Sheets) stylesheet file
-*.css linguist-detectable=true
-*.css linguist-documentation=false
-# Less stylesheet file
-*.less linguist-detectable=true
-*.less linguist-documentation=false
-# QML (QT Modeling Language) source file
-*.qml linguist-detectable=true
-*.qml linguist-documentation=false
-# JS (JavaScript) source file
-*.js linguist-detectable=true
-*.js linguist-documentation=false
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=true
 *.json linguist-documentation=false
-# PHP (PHP HyperText Preprocessor) source file
-*.php linguist-detectable=true
-*.php linguist-documentation=false
-# Pug source file
-*.pug linguist-detectable=true
-*.pug linguist-documentation=false
-# Python source file
-*.py linguist-detectable=true
-*.py linguist-documentation=false
-# Mustache source file
-*.mustache linguist-detectable=true
-*.mustache linguist-documentation=false
-# Handlebars source file
-*.handlebars linguist-detectable=true
-*.handlebars linguist-documentation=false
-*.hbs linguist-detectable=true
-*.hbs linguist-documentation=false
-# WebVTT subtitle file
-*.vtt linguist-detectable=true
-*.vtt linguist-documentation=false
-# SubRip subtitle file
-*.srt linguist-detectable=true
-*.srt linguist-documentation=false
-# Ruby source file
-*.rb linguist-detectable=true
-*.rb linguist-documentation=false
-*.rake linguist-detectable=true
-*.rake linguist-documentation=false
-*.rakefile linguist-detectable=true
-*.rakefile linguist-documentation=false
-*gemfile linguist-detectable=true
-*gemfile linguist-documentation=false
 # YAML (YAML Ain't Markup Language) document
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yml linguist-detectable=false
@@ -75,14 +31,13 @@
 *.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
 # Markdown
-# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
-*.md linguist-detectable=false
+*.md linguist-detectable=true
 *.md linguist-documentation=false
-*.mkd linguist-detectable=false
+*.mkd linguist-detectable=true
 *.mkd linguist-documentation=false
-*.mdown linguist-detectable=false
+*.mdown linguist-detectable=true
 *.mdown linguist-documentation=false
-*.markdown linguist-detectable=false
+*.markdown linguist-detectable=true
 *.markdown linguist-documentation=false
 # Makefile (GNU Make)
 # Do not include, as it is not needed to be shown
@@ -113,6 +68,6 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 3 (Monday, 2021 November 29th at 3:14 pm)
-# Line count (including blank lines and compiler line): 119
+# File version: 4 (2022, Wednesday, June 8th at 4:53 pm PST)
+# Line count (including blank lines and compiler line): 74
 # End of script
